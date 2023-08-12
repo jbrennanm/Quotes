@@ -1,0 +1,43 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Brennan Mitchell
+
+*/
+.container {
+	vertical-align: text-top;
+	border-color: gray;
+	border-radius: 7px;
+	border-style: outset;
+	padding: 5px;
+	margin: 5px;
+	font-size: 15px;	
+}
+
+.addQuote {
+	height: 200px;
+	width: 700px;
+	border-color: gray;
+	border-radius: 7px;
+	border-style: outset;
+	border-width: 2px;
+	padding: 10px;
+	margin: 7px;
+}
+
+textarea {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+.loginRegister {
+	height: 150px;
+	width: 200px;
+	border-color: light gray;
+	border-radius: 7px;
+	border-style: outset;
+	border-width: 2px;
+	padding: 10px;
+	margin: 7px;
+}
